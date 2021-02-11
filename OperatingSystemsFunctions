@@ -2,3 +2,7 @@ Networking operating system which is manages network resources and does certain 
 There are two types of networks suchs peer to peer NOS and client to server NOS.
 Peer to peer is bascially where it allows users to share the network resources in a common, accessible network area
 client to server is allowing users to access through resources through a server which is more expensive than peer to peer.
+
+Memory managment oprating system is responsible to manage the computer main(primary) memory
+It keeps track and location weather it's allocated or free.
+Theres memory protection to where you have rights to access to your computer
