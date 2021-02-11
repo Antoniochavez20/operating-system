@@ -7,3 +7,8 @@ client to server is allowing users to access through resources through a server 
 Memory management oprating system is responsible to manage the computer main(primary) memory
 It keeps track and location weather it's allocated or free.
 Theres memory protection to where you have rights to access to your computer
+
+Touch operating system is job is to allow the user to interact with deivce through user interface.
+it allows users to be able to touch the screen and do gestures to communicate with device
+many devices use touch user interface such as phones, computers, cameras, and tablets.
+
