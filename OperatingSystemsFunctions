@@ -1,0 +1,4 @@
+Networking operating system which is manages network resources and does certain task to connect you to a local area network. 
+There are two types of networks suchs peer to peer NOS and client to server NOS.
+Peer to peer is bascially where it allows users to share the network resources in a common, accessible network area
+client to server is allowing users to access through resources through a server which is more expensive than peer to peer.
